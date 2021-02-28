@@ -6,8 +6,8 @@ Baseado na **técnica Pomodoro**, o app utiliza ciclos de produtividade de 25 mi
 
 Contém elementos de gamificação, exibindo um level para o usuário baseado no número de desafios completos e uma barra de pontos de experiência necessários para o próximo level.
 
-![Moveit](/docs/images/app.jpg)
-![Moveit](/docs/images/challenge.jpg)
+<img src="/docs/images/app.jpg" alt="Moveit" width="600" />
+<img src="/docs/images/challenge.jpg" alt="challenge" width="600" />
 
 Para executar localmente utilize um dos comandos abaixo, ou acesse a [demo na Vercel](https://moveit-nlw-kirstus.vercel.app)
 
